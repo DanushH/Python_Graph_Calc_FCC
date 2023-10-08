@@ -201,13 +201,3 @@ def menu():
         print("Invalid option")
 
 menu()
-
-menu()
-
-
-
-menu()
-
-menu()
-
-menu()
